@@ -1,0 +1,5 @@
+Product Key Memory Added
+
+Debug Logging implemented. More cases and log downloading will be added later.
+
+Level select menu will be finished by the next update.
