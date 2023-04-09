@@ -1,5 +1,8 @@
-Product Key Memory Added
+Level Select Menu Revamp
 
-Debug Logging implemented. More cases and log downloading will be added later.
+New World level configuration in the works.
 
-Level select menu will be finished by the next update.
+Known bugs found after compilation:
+
+Level completion window freezes of load. Will be fixed in next update.
+Version check in the Settings Menu doesn't show any versions.
